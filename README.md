@@ -14,14 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijeetBanerjee07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐍 My GitHub Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/ArijeetBanerjee07/ArijeetBanerjee07/output/github-contribution-grid-snake.svg)
-
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ArijeetBanerjee07/ArijeetBanerjee07/output/github-contribution-grid-snake-dark.svg)
 
-## 🚀 My GitHub Space Field
-
-![Space Asteroids](https://raw.githubusercontent.com/ArijeetBanerjee07/ArijeetBanerjee07/output/space-asteroids.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArijeetBanerjee07&icon=3&color=13)](https://visitcount.itsvg.in)
