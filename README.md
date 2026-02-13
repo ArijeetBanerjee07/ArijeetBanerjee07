@@ -1,3 +1,10 @@
+## 🐍 My GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/ArijeetBanerjee07/ArijeetBanerjee07/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/ArijeetBanerjee07/ArijeetBanerjee07/output/github-contribution-grid-snake-dark.svg)
+
+
 # 💫 About Me:
 👋 Hi, I’m Arijeet<br>A Computer Science Engineering student and software developer focused on building clean, scalable, and practical solutions. I work primarily with JavaScript, TypeScript, and Python, and enjoy crafting applications using React, Node.js, and modern web technologies.<br><br>I’m currently exploring AI, Machine Learning, and Data Science, with a strong interest in solving real-world problems through technology. I believe in writing readable code, learning continuously, and improving one project at a time.<br><br>When I’m not coding, I’m probably optimizing something that didn’t need optimization. Still worth it.
 
