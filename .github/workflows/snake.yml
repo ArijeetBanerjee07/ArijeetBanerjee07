@@ -1,23 +1,25 @@
-name: Space Asteroids
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # Runs every 12 hours
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: actions/setup-node@v3
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v3
         with:
-          node-version: 18
+          github_user_name: ArijeetBanerjee07
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - run: node .space-engine/render.js
-
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
