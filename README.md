@@ -19,6 +19,9 @@
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ArijeetBanerjee07/ArijeetBanerjee07/output/github-contribution-grid-snake-dark.svg)
 
+## 🚀 My GitHub Space Field
+
+![Space Asteroids](https://raw.githubusercontent.com/ArijeetBanerjee07/ArijeetBanerjee07/output/space-asteroids.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArijeetBanerjee07&icon=3&color=13)](https://visitcount.itsvg.in)
