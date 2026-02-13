@@ -15,16 +15,13 @@
 
 ## 🐍 My GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/ArijeetBanerjee07/ArijeetBanerjee07/output/github-contribution-grid-snake.svg)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ArijeetBanerjee07/ArijeetBanerjee07/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArijeetBanerjee07&icon=3&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🚀 My GitHub Space Field
 
-![Space Asteroids](https://raw.githubusercontent.com/ArijeetBanerjee07/ArijeetBanerjee07/output/space-asteroids.svg)
 
