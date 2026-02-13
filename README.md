@@ -13,8 +13,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ArijeetBanerjee07&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijeetBanerjee07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🐍 My GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArijeetBanerjee07&icon=3&color=13)](https://visitcount.itsvg.in)
